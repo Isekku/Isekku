@@ -1,7 +1,7 @@
-- 👋 Salut je m'appelle Isekku
-- 👀 Je suis interessé par le développement d'application web/mobile
-- 🌱 Je recherche actuellement à me surpasser et devenir un meilleur développeur
-- 📫 Pour pouvoir me joindre, utiliser cette adresse : sekoucisse.pr@gmail.com
+- 👋 Hi, my name is Isekku
+- 👀 I'm interested in web/mobile application development
+- 🌱 I'm currently looking to push myself and become a better developer
+- 📫 To contact me, please use this address: sekoucisse.pr@gmail.com
 
 <!---
 Isekku/Isekku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
