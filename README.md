@@ -1,9 +1,9 @@
-- 👋 Hi, my name is Sekou
-- 👀 I'm interested in web/mobile application development
-- 🌱 I'm currently looking to push myself and become a better developer
-- 📫 To contact me, please use this address: sekoucisse.pr@gmail.com
+# 👋 Hi, I'm Sekou
 
-<!---
-Isekku/Isekku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Master's student in **STL at Sorbonne Université**, passionate about software development. I enjoy building both **web/mobile applications** and working on **system-level projects**.  
+
+- 🌱 I'm always looking to **push myself** and grow as a developer.  
+- 💻 I like **creating websites** and experimenting with new technologies.  
+- ✈️ I enjoy **traveling** and exploring new places.  
+
+📫 Feel free to reach out: **sekoucisse.pr@gmail.com**
