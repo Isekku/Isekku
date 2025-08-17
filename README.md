@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Isekku
+- 👋 Hi, my name is Sekou
 - 👀 I'm interested in web/mobile application development
 - 🌱 I'm currently looking to push myself and become a better developer
 - 📫 To contact me, please use this address: sekoucisse.pr@gmail.com
