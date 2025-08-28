@@ -6,8 +6,8 @@
 ---
 
 ## 🌍 Headline  
-**EN:** Master’s Student | Web & System Developer | React Native • Java • C • OCaml  
-**FR:** Étudiant Master STL | Développeur Web & Systèmes | React Native • Java • C • OCaml  
+**EN:** Master’s Student in Computer Science - Sorbonne Université | Web & System Developer | React Native • Java • C • OCaml  
+**FR:** Étudiant Master STL - Sorbonne Université | Développeur Web & Systèmes | React Native • Java • C • OCaml  
 
 ---
 
